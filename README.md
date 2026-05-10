@@ -1,15 +1,15 @@
 # Lazarus
 ## Problem:
 
- **CPU and Graphics card can't work with large process cause their work with many process.**
+CPU and Graphics card can't work with large process cause their work with many process.
 
 ## Solution:
 
-**Lazarus solve this problem, it freeze trash process and give all resources to main process.**
+Lazarus solve this problem, it freeze trash process and give all resources to main process.
 
 ## Under the hood:
 
-**Lazarus use Windows API to control threads:**
+Lazarus use Windows API to control threads:
 
 
 ```cpp   
@@ -29,7 +29,7 @@ if (hProcess != NULL)
 ```
 # Instruction
 ## Control:
-**Add bad and trigger process. When you open trigger process bad is freeze.**
+Add bad and trigger process. When you open trigger process bad is freeze.
 
 **To start work programm press F8 or button 'Start'**
 
@@ -37,4 +37,4 @@ if (hProcess != NULL)
 
 # If something wrong
 ## Make sure:
-**1. In folder with Lazarus.exe lies**BlackList**.txt and **Trigger.txt****
+1. In folder with Lazarus.exe lies **BlackList**.txt and **Trigger.txt**
