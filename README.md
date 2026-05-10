@@ -41,3 +41,4 @@ To stop work programm press F10 or button *'Stop'*
 2. *BlackList.txt* and *Trigger.txt* save in encoding *ANSI* or *UTF - 16 LE* prefer *ANSI*
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cpp_programsL?direct)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkuvshinnikov10@gmail.com)
