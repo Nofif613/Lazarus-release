@@ -29,7 +29,7 @@ if (hProcess != NULL)
 ```
 # Instruction
 ## Control:
-Add bad and trigger process in special lists. When you open trigger process bad is freeze.
+Add bad and trigger process in special lists. When you open trigger process bad is freeze.You also can add process in both lists.
 
 To start work programm press F8 or button *'Start'*
 
