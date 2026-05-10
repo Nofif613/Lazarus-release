@@ -40,4 +40,4 @@ To stop work programm press F10 or button *'Stop'*
 1. In folder with Lazarus.exe lies *BlackList.txt* and *Trigger.txt*
 2. *BlackList.txt* and *Trigger.txt* save in encoding *ANSI* or *UTF - 16 LE* prefer *ANSI*
 ## Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@nofififi)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nofififi)
