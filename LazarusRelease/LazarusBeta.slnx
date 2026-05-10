@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="LazarusBeta/LazarusBeta.vcxproj" Id="73cdc2c8-7396-4e17-aacc-af0e1cc83dda" />
-</Solution>
