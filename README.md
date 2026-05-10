@@ -18,7 +18,7 @@ Lazarus use Windows API to control threads:
      if (freeze == true) {
       SuspendThread(hThreat);
 ```
-**And force memory:**
+**And force memory:
 
 
 ```cpp
@@ -31,9 +31,9 @@ if (hProcess != NULL)
 ## Control:
 Add bad and trigger process in special lists. When you open trigger process bad is freeze.
 
-To start work programm press F8 or button 'Start'
+To start work programm press F8 or button *'Start'*
 
-To stop work programm press F10 or button 'Stop'
+To stop work programm press F10 or button *'Stop'*
 
 # If something wrong
 ## Make sure:
