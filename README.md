@@ -43,4 +43,4 @@ To stop work programm press F10 or button *'Stop'*
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cpp_programsL?direct)
 
 
-Mail:: [nkuvshinnikov10@gmail.com](mailto:nkuvshinnikov10@gmail.com)
+Mail:: **[nkuvshinnikov10@gmail.com](mailto:nkuvshinnikov10@gmail.com)**
