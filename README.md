@@ -38,4 +38,4 @@ To stop work programm press F10 or button 'Stop'
 # If something wrong
 ## Make sure:
 1. In folder with Lazarus.exe lies *BlackList.txt* and *Trigger.txt*
-2. BlackList.txt and Trigger.txt save in encoding ANSI or *UTF - 16 LE* prefer *ANSI*
+2. *BlackList.txt* and *Trigger.txt* save in encoding *ANSI* or *UTF - 16 LE* prefer *ANSI*
