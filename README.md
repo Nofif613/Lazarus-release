@@ -50,7 +50,13 @@ To stop work programm press F10 or button *'Stop'*
 ## Make sure:
 1. In folder with Lazarus.exe must be lies *BlackList.txt* and *Trigger.txt* <img width="631" height="97" alt="InFolder" src="https://github.com/user-attachments/assets/e80a68a1-a8be-4371-89df-6f3d90056d25" />
 2. *BlackList.txt* and *Trigger.txt* save in encoding *ANSI* or *UTF - 16 LE* prefer *ANSI*
-3. You should open Lazarus.exe in the name of the administrator
+<img width="1181" height="585" alt="Encoding" src="https://github.com/user-attachments/assets/e027c7b1-040d-4ffe-8eb1-ede57106afb9" />
+3. You should be run Lazarus.exe as administrator
+<img width="531" height="499" alt="Prt1" src="https://github.com/user-attachments/assets/57356347-9d88-4b46-ace8-1c4a25e40773" />
+ <img width="532" height="491" alt="Prt2" src="https://github.com/user-attachments/assets/af850730-997a-4220-bccb-01a2952ce00a" />
+
+
+
 ## Contacts(Eng/Rus)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cpp_programsL?direct)
 
