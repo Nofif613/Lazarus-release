@@ -1,4 +1,6 @@
-![Lazarus Preview](Assets/preview.png)
+<img width="731" height="642" alt="preview" src="https://github.com/user-attachments/assets/6cee3470-66d6-41e0-b64a-ec3fc9cf6127" />
+
+
 # Lazarus
 ## Problem:
 
