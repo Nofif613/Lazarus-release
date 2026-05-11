@@ -36,6 +36,8 @@ if (hProcess != NULL)
 
 ## After 
 <img width="1064" height="428" alt="After" src="https://github.com/user-attachments/assets/c056b1fe-3f8f-4382-a9f6-d9fdaa207a65" />
+
+
 # Instruction
 ## Control:
 Add bad and trigger process in special lists. When you open trigger process bad is freeze.You also can add process in both lists.
