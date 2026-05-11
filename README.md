@@ -1,3 +1,4 @@
+![Lazarus Preview](assets/preview.png)
 # Lazarus
 ## Problem:
 
